@@ -1,26 +1,156 @@
-<div align="center">
+# Hi there 👋, I'm Anoop Bhatt
 
-# Hi, I'm Anoop Bhatt 👋
+### Full Stack Developer | MERN & Next.js | Go & PostgreSQL | AI-Enabled Applications
 
-### Full Stack Developer · Web Applications · SaaS · Payments
+---
 
-I build applications across healthcare, sales intelligence, commerce and document tools — from user workflows and backend APIs to integrations and deployment.
+## 👨‍💻 About Me
 
-**Next.js · React · TypeScript · Go · Node.js · PostgreSQL · MongoDB · AWS**
+I'm a Full Stack Developer with **5 years of experience** building production web applications, APIs and AI-enabled solutions using **React, Next.js, Node.js and modern SQL/NoSQL databases**.
 
-[Featured project](#featured-project--continuity-connect) · [Selected work](#selected-project-contributions) · [Technical skills](#technical-skills) · [Working together](#working-together)
+I work across the application lifecycle, from requirements and responsive interfaces to backend services, third-party integrations and deployment.
 
-</div>
+✅ Full Stack Application Development  
+✅ REST API Design & Third-Party Integrations  
+✅ Authentication, Authorization & User-Data Security  
+✅ Stripe Payments & Subscription Billing  
+✅ SQL & NoSQL Database Development  
+✅ Generative AI & AI-Assisted Engineering  
+✅ Production Delivery, Documentation & Progress Updates
 
-## About me
+I use **Codex and Claude Code** to support development, while reviewing and testing generated code and keeping implementations clear and maintainable.
 
-I'm a full stack developer with experience delivering production applications and owning features across the frontend, backend and database. My work includes healthcare workflows, payment integrations, data ingestion, search services and AI-assisted document features.
+---
 
-I turn business requirements into practical interfaces and maintainable services. I use AI coding agents such as Codex and Claude Code alongside code review and testing, with attention to clear documentation, reusable logic and regular progress updates.
+## 🚀 What I Do
 
-## Featured project — Continuity Connect
+- Build full stack web applications from initial requirements through production delivery
+- Develop responsive interfaces from Figma designs using Next.js, React and TypeScript
+- Build backend APIs and integrations with Node.js, Express.js and Go
+- Work with PostgreSQL, MongoDB and MySQL across application workflows
+- Integrate Stripe payments, subscription billing and purchase journeys
+- Implement authentication, role-based workflows and secure handling of user data
+- Build data-ingestion, search and AI-assisted application features
+- Review and test code, document decisions and communicate progress regularly
 
-### Healthcare platform for NDIS and aged care
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+
+### Generative AI & Development Tools
+
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
+LLM integrations · Retrieval-Augmented Generation (RAG) · AI agents · Code review & testing
+
+### Payment Integrations
+
+- Stripe payments and subscription billing
+- Razorpay
+- Order, checkout and digital fulfilment workflows
+
+---
+
+## 💼 Professional Experience
+
+### Senior Associate (MERN + AI) | smartData Enterprises Ltd.
+**October 2025 – Present**
+
+- ✅ Develop full stack applications across interfaces, backend services and data integration
+- ✅ Integrate generative AI capabilities into application workflows
+- ✅ Support feature delivery, troubleshooting and ongoing production improvements
+
+### MERN Stack Developer | VQCodes Software Solutions LLP
+**April 2022 – October 2025**
+
+- ✅ Built and maintained React, Node.js and Express.js application modules
+- ✅ Delivered SQL/NoSQL-backed features for travel, commerce, learning and infrastructure projects
+- ✅ Implemented payment integrations and third-party service workflows
+
+### MERN Stack Intern | Digital Acrobat Web Agency
+**August 2021 – April 2022**
+
+- ✅ Contributed React components, Node.js/Express.js endpoints and database-backed features
+
+---
+
+## 🏆 Core Expertise
+
+```text
+✔ MERN & Next.js Application Development
+✔ Go & PostgreSQL
+✔ REST APIs & Third-Party Integrations
+✔ Authentication & Role-Based Access
+✔ Stripe Payments & Subscription Billing
+✔ SQL & NoSQL Data Modelling
+✔ Responsive Interfaces & Figma Implementation
+✔ AI Integration, RAG & AI Agents
+✔ Codex & Claude Code with Review and Testing
+✔ Production Application Delivery
+✔ Documentation & Client Communication
+✔ React Native & Expo
+```
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anoopbhatt814&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anoopbhatt814&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Let's Connect
+
+💼 Open to:
+
+- Full Stack Development Opportunities
+- SaaS & Subscription-Based Applications
+- Healthcare & Business Workflow Platforms
+- Payment & Third-Party API Integrations
+- AI-Enabled Products and Web-to-Mobile Projects
+
+📫 Reach me through the contact details on my GitHub profile. Availability and rates can be discussed directly.
+
+---
+
+## 💻 Public Repositories
+
+- [FinFlow](https://github.com/anoopbhatt814/FinFlow)
+- [LearnSphere](https://github.com/anoopbhatt814/LearnSphere)
+- [SkillBridge](https://github.com/anoopbhatt814/SkillBridge)
+- [WealthTrack](https://github.com/anoopbhatt814/WealthTrack)
+
+*Repositories are being prepared; source code will be added separately.*
+
+---
+
+## 🚀 Professional Project Contributions
+
+The following projects were delivered through professional engagements. Their source repositories are private; the links below point to the public products.
+
+
+### Continuity Connect | Healthcare / NDIS & Aged Care
 
 **Role: Full stack development and end-to-end module ownership**  
 [Visit Continuity Connect ↗](https://continuityconnect.com.au/)
@@ -34,7 +164,6 @@ My largest project contribution: a multi-role care-management platform spanning 
 
 This work reflects my ability to translate connected business rules into complete features across multiple user roles.
 
-## Selected project contributions
 
 ### Pristine Data AI · Sales intelligence SaaS
 
@@ -68,7 +197,7 @@ This work reflects my ability to translate connected business rules into complet
 - Set up Stripe and Razorpay payment flows for online learning products and contributed feature upgrades to the web experience.
 - Built responsive desktop and mobile pages and integrated course-related product data into purchase journeys.
 
-## Additional delivered projects
+### Additional delivered projects
 
 | Project | Domain | My contribution |
 | --- | --- | --- |
@@ -78,31 +207,3 @@ This work reflects my ability to translate connected business rules into complet
 | [Proxyrack](https://www.proxyrack.com/) | Proxy services | Developed customer-facing residential and mobile proxy bundles, package and pricing interfaces, and payment integration. |
 | [Invesense](https://www.invesense.com/) | Investment services | Developed animated website interfaces and backend-managed statistics and document publishing. |
 | [Creatives Matter](https://creativesmatter.com/) | Creator economy | Contributed to a Next.js, Node.js and MongoDB application. |
-
-*These are professional project contributions. The links point to the products; they do not imply ownership of the products or public access to their source code.*
-
-## Technical skills
-
-| Area | Technologies and focus |
-| --- | --- |
-| Frontend | Next.js, React, TypeScript, JavaScript, responsive interfaces, implementation from Figma designs |
-| Backend | Go, Node.js, REST APIs, third-party integrations, authentication and authorization |
-| Data | PostgreSQL, MongoDB, MySQL, data ingestion and search services |
-| Payments | Stripe, subscription billing, Razorpay, order and purchase workflows |
-| Cloud | AWS, application deployment |
-| Mobile | React Native, Expo |
-| AI development | Codex, Claude Code, review and testing of generated code |
-
-## How I work
-
-- **Own complete features:** Connect user interfaces, APIs, database changes and integrations through to delivery.
-- **Keep code maintainable:** Prefer clear structure, shared logic and focused abstractions.
-- **Review and test:** Check generated and handwritten code, including failure paths and integration boundaries.
-- **Handle data carefully:** Consider access control, user-data security and accurate calculations when designing application workflows.
-- **Communicate progress:** Document decisions, raise blockers early and keep project leads informed.
-
-## Working together
-
-I'm interested in full stack web applications, SaaS products, payment integrations and projects that extend from web to mobile.
-
-For project discussions, please share the scope, timeline and expected weekly commitment. Availability and rates can be discussed directly.
