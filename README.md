@@ -115,8 +115,10 @@ LLM integrations · Retrieval-Augmented Generation (RAG) · AI agents · Code re
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anoopbhatt814&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anoopbhatt814&layout=compact&theme=tokyonight&hide_border=true)
+[![GitHub Followers](https://img.shields.io/github/followers/anoopbhatt814?style=for-the-badge&logo=github&label=Followers)](https://github.com/anoopbhatt814?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/anoopbhatt814?style=for-the-badge&logo=github&label=Stars)](https://github.com/anoopbhatt814?tab=repositories)
+
+[View repositories](https://github.com/anoopbhatt814?tab=repositories) · [View contribution activity](https://github.com/anoopbhatt814#overview)
 
 ---
 
